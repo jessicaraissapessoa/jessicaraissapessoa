@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com gerência de projeto e direção de criação em jogos
+-  Hoje trabalho com gerência de projeto e direção de criação em jogos
 - 🌱 Estudando Programação em Java, Banco de Dados MySQL, Prototipação em Figma e Introdução à Engenharia de Software
 - 📫 Contate-me pelo e-mail: jessicaraissapessoa@gmail.com
 - 😄 Pronomes: ela / dela
