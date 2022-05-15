@@ -2,10 +2,24 @@
 
 
 
-- ⚙️Hoje trabalho com gerência de projeto e direção de criação em jogos
+- ⚙️Atualmente trabalho com gerência de projeto e direção de criação em jogos
+- Interesse em programação back end para desenvolvimento de softwares e criação de jogos
 - 📚 Estudando Programação em Java, Banco de Dados MySQL, Prototipação em Figma e Introdução à Engenharia de Software
 - 💬 E-mail: jessicaraissapessoa@gmail.com
 - 😄 Pronomes: ela / dela
+
+##
+
+<div>
+  
+### Formação:
+
+- Em andamento: Bacharelado em Ciência da Computação
+- Mestra em Comunicação e Culturas Audiovisuais
+- Bacharela em Comunicação em Mídias Digitais  
+  
+  
+</div>  
 
 ##
 
