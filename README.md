@@ -13,9 +13,9 @@
   
 ### Formação:
 
-- Em andamento: Bacharelado em Ciência da Computação
-- Mestra em Comunicação e Culturas Audiovisuais
-- Bacharela em Comunicação em Mídias Digitais  
+- Em andamento: Bacharelado em Ciência da Computação (FPB)
+- Mestra em Comunicação e Culturas Audiovisuais (UFPB)
+- Bacharela em Comunicação em Mídias Digitais (UFPB)  
   
   
 </div>  
