@@ -58,8 +58,6 @@
   <a href="https://github.com/jessicaraissapessoa">
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaraissapessoa&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-
-<div>
   
 <!-- 
 
