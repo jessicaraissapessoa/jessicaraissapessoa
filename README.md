@@ -2,9 +2,9 @@
 
 
 
-- ⚙️ Atualmente trabalho com gerência de projeto e direção de criação em jogos
-- 💗 Interesse em programação back-end para desenvolvimento de software e criação de jogos
-- 📚 Estudando Programação em Java POO, Banco de dados SQL, contrução de jogos na Unity
+- ⚙️ Atualmente estou cursando Ciência da Computação e busco minha primeira oportunidade de estágio
+- 💗 Interesse em desenvolvimento back-end
+- 📚 Estudando Dart/Flutter/SQL
 - 💬 E-mail: jessicaraissapessoa@gmail.com
 
 ##
@@ -14,7 +14,7 @@
 ### Formação:
 
 - Em andamento: Bacharelado em Ciência da Computação (FPB)
-- Em andamento: formações pela Alura e Alura Língua
+- Em andamento: formações Dart e Flutter pela Alura
 - Mestra em Comunicação e Culturas Audiovisuais (UFPB)
 - Bacharela em Comunicação em Mídias Digitais (UFPB)  
   
