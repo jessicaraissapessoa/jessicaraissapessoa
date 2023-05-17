@@ -3,7 +3,7 @@
 
 
 - ⚙️ Atualmente estou cursando Ciência da Computação e busco minha primeira oportunidade de estágio
-- 💗 Interesse em desenvolvimento back-end
+- 💗 Interesse em desenvolvimento back-end, principalmente mobile
 - 📚 Estudando Dart/Flutter/SQL
 - 💬 E-mail: jessicaraissapessoa@gmail.com
 
