@@ -3,9 +3,10 @@
 
 
 - ⚙️ Atualmente estou cursando Ciência da Computação e busco minha primeira oportunidade de estágio
-- 💗 Interesse em desenvolvimento back-end, principalmente mobile
-- 📚 Estudando Dart/Flutter/SQL
+- 💗 Interesse em desenvolvimento mobile e back-end
+- 📚 Estudando Kotlin, no momento
 - 💬 E-mail: jessicaraissapessoa@gmail.com
+- :computer: Perfil DIO: https://web.dio.me/users/jessicaraissapessoa?tab=skills
 
 ##
 
@@ -14,9 +15,10 @@
 ### Formação:
 
 - Em andamento: Bacharelado em Ciência da Computação (FPB)
-- Em andamento: formações Dart e Flutter pela Alura
+- Bootcamp Santander 2023 Mobile com Kotlin pela DIO (em andamento)
+- Formações Dart e Flutter pela Alura (em andamento)
 - Mestra em Comunicação e Culturas Audiovisuais (UFPB)
-- Bacharela em Comunicação em Mídias Digitais (UFPB)  
+- Bacharela em Comunicação em Mídias Digitais (UFPB) 
   
   
 </div>  
@@ -27,6 +29,7 @@
 
 ### Conhecimentos em:
   
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
