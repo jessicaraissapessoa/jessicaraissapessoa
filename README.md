@@ -2,9 +2,9 @@
 
 <br>
 
-- ⚙️ Atualmente estou cursando Ciência da Computação e busco minha primeira oportunidade de estágio
-- 💗 Interesse em desenvolvimento mobile Android
-- 📚 Estudando Kotlin e Android, no momento
+- ⚙️ Atualmente estou cursando Ciência da Computação
+- 💗 Interesse em: QA, desenvolvimento Android e desenvolvimento back-end
+- 📚 Estudando Testes manuais e automatizados
 - 💬 E-mail: jessicaraissapessoa@gmail.com
 - :computer: Perfil DIO: https://web.dio.me/users/jessicaraissapessoa?tab=skills
 
@@ -17,11 +17,8 @@
 <br>
 
 - Em andamento: Bacharelado em Ciência da Computação (FPB)
-- Bootcamp Santander 2023 Mobile com Kotlin pela DIO (em andamento)
-- Formações Dart e Flutter pela Alura (em andamento)
 - Mestra em Comunicação e Culturas Audiovisuais (UFPB)
 - Bacharela em Comunicação em Mídias Digitais (UFPB) 
-  
   
 </div>  
 
@@ -35,9 +32,11 @@
   
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white/">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   
   <br>
   <br>
@@ -51,7 +50,9 @@
   <br>
 
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
@@ -63,11 +64,10 @@
   
 <div>
   
-### Contatos:
+### Contato:
 
 <br>
   
-  <a href = "mailto:jessicaraissapessoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessicaraissapessoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ##
