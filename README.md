@@ -2,11 +2,11 @@
 
 <br>
 
-- ⚙️ Atualmente estou cursando Ciência da Computação
-- 💗 Interesse em: QA, desenvolvimento Android e desenvolvimento back-end
+- :computer: Atuando profissionalmente como engenheira de testes de software (QA) em Atlas Technologies 
+- ⚙️ Cursando Ciência da Computação
+- 💗 Interesse em: testes de software, desenvolvimento Android, desenvolvimento front-end, UX/UI
 - 📚 Estudando Testes manuais e automatizados
-- 💬 E-mail: jessicaraissapessoa@gmail.com
-- :computer: Perfil DIO: https://web.dio.me/users/jessicaraissapessoa?tab=skills
+- :page_with_curl: Perfil DIO: https://web.dio.me/users/jessicaraissapessoa?tab=skills
 
 ##
 
